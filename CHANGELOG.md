@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/verana-labs/verre/compare/v0.3.1...v0.3.2) (2026-06-30)
+
+
+### Bug Fixes
+
+* mark cjs build as commonjs ([#112](https://github.com/verana-labs/verre/issues/112)) ([34ecc7c](https://github.com/verana-labs/verre/commit/34ecc7c9c7e1f18d4b3dab3baa67acc0e7e2eccb))
+
 ## [0.3.1](https://github.com/verana-labs/verre/compare/v0.3.0...v0.3.1) (2026-06-16)
 
 
